@@ -1,5 +1,6 @@
 # intergalactic_comm
 The second game of mine in Russian that was created as the independent project for Python's course in HSE. The collaboration with AI.
+Inspired by ordinary cross-cultural communication. In addition, the alien races from the movie "Valerian and the City of a Thousand Planets" were used in the plot of this mini-game as inspiration as well.
 
 ## The game was created based on the following criteria (in RU):
 
